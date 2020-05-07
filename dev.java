@@ -13,7 +13,7 @@ public static void main(String args[])
 	Scanner sc=new Scanner(System.in);
 	System.out.println("Enter any number");
 	a=sc.nextInt();
-	System.out.println("hello");
+	System.out.println("hello in dev");
 	
 }
 }
